@@ -1,12 +1,13 @@
 
 
 **Prerequisite**
-Terraform install :
-Set Up AWS Credentials : aws configure
-Install Kubectl : https://kubernetes.io/docs/tasks/tools/
-Install Helm : https://helm.sh/docs/intro/install/
-Update Helm : helm repo update
-Install/update latest AWS CLI : https://aws.amazon.com/cli/
+
+**Terraform install**
+**Set Up AWS Credentials :** aws configure
+**Install Kubectl :** https://kubernetes.io/docs/tasks/tools/
+**Install Helm :** https://helm.sh/docs/intro/install/
+**Update Helm :** helm repo update
+**Install/update latest AWS CLI :** https://aws.amazon.com/cli/
 
 
 
